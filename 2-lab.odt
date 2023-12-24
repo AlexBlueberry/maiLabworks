@@ -342,6 +342,7 @@ result,9,>,result
 result, ,=,mvfin
 
 mvfin, ,>,fin
+fin, ,1,finish
 fin,0,1,finish
 fin,1,0,finish
 fin,2,0,finish
